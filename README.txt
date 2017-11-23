@@ -13,7 +13,7 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
 
-package   assignfeedback_structured
-copyright 2017 Lancaster University (http://www.lancaster.ac.uk/)
+package   assignfeedback_contact
+copyright 2017 University of Strathclyde 
 license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
-author    Tony Butler <a.butler4@lancaster.ac.uk>
+author    Michael Hughes <michaelhughes@strath.ac.uk>
